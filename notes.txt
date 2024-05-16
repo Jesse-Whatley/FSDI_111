@@ -1,0 +1,52 @@
+CLASS 111 NOTES
+
+install Ubuntu
+    * install ubuntu ()
+    * ubuntu username (jesse)
+    * ubuntu password (letssmoke1)
+
+    * install python on ubuntu
+        *sudo apt install python3 
+        *sudo apt install python3-pip 
+        *sudo apt install python3-venv 
+    
+    * making new directory
+        *mkdir -p (this will create a directory with the pathway)  (ex:of -p Code/SDGKU/FSDI_111)
+        *pwd (takes you back to where you originated the file)
+
+    * creating virtual enviroment 
+        * python3 -m venv venv
+        * source venv/bin/activate (activate venv)
+        * install flask (pip3 install flask)
+        * to update pip (pip install --upgrade pip)
+
+    * creating directories
+        * mkdir app
+            ** (to make files inside of file)
+            * touch app/routes.py
+            * touch app/__init__.py
+        * touch run_local.sh
+        * open visualstudio code (code .)
+
+OOP : Object Oriented Programming 
+
+flask is 
+
+class is to object as blueprint is to house
+variable = attribute when attached to a class
+routine = methoud when attached to a class
+
+(__magic__) come in classes, methods, files
+they interact with 
+
+@ in python means a decorator/ rapper (ex: @app.get("/))
+purpose of decorator is to map 
+
+loop back ip address 127.0.0.1 (local host)
+
+idempotent == look up for homework
+
+applicaton: must have a user interface
+user interface: is what the user interacts with
+service: is what communicates with the application
+
