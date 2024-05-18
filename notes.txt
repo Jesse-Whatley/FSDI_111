@@ -19,6 +19,7 @@ install Ubuntu
         * source venv/bin/activate (activate venv)
         * install flask (pip3 install flask)
         * to update pip (pip install --upgrade pip)
+        * deactivate (deactivate venv)
 
     * creating directories
         * mkdir app
