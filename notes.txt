@@ -113,4 +113,10 @@ update the record
    ...> WHERE id=1;     this is important 
 
 delete the record
-    * DELETE FROM user WHERE id=1 
+    * DELETE FROM user WHERE id=1
+
+
+GIT terminal
+git config -l (list our config)
+git add -A (stages changes)
+cd ~/Code/SDGKU/{name of file} (how to switch directories)
