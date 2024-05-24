@@ -121,3 +121,8 @@ GIT terminal
 git config -l (list our config)
 git add -A (stages changes)
 cd ~/Code/SDGKU/{name of file} (how to switch directories)
+
+install requests
+    *pip3 install requests
+
+
